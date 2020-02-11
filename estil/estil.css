@@ -1,0 +1,67 @@
+label {
+    font-family: "Times New Roman", 
+    Times, serif;
+}
+
+label#loginLabel {
+    color: #8b0000;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+label#nameLabel {
+    color: blue;
+    font-weight: bold;
+}
+
+button {
+    border-style: solid;
+    border-width: 2px ;
+    border-color: #333;
+    border-radius: 5px;
+    border-width: 2px;
+}
+
+button#logoutButton:hover{
+    padding: 12px 48px;
+    background-color: #dd2c00;
+}
+
+box {
+    border-width: 20px;
+    
+}
+
+box#vloginBox{
+    border: 5px solid blue;
+    padding: 10px;
+    margin: 100px;
+    border-radius: 10px;
+}
+
+label#fila_parella {
+    background-color: #B0C4DE;
+    /*color: #000000;*/
+    border: 5px white;
+}
+
+label#fila_imparella {
+    background-color: #C0C0C0;
+    /*color: #000000;*/
+    border: 5px white;
+}
+
+label#primera_fila {
+    background-color: #1E90FF;
+    /*color: #F8F8FF;*/
+    border: 5px black; 
+}
+
+
+
+
+
+
+
+
+
